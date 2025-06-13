@@ -1,5 +1,0 @@
-python-telegram-bot==20.6
-websockets==12.0
-pandas==2.2.2
-pandas_ta==0.3.14b0
-aiofiles==23.2.1
