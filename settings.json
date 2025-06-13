@@ -1,0 +1,7 @@
+{
+    "account_mode": "demo",
+    "timeframe": "1m",
+    "trade_amount": 1.0,
+    "mode": "auto",
+    "active_asset": "R_50"
+}
